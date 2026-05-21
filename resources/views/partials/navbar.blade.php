@@ -34,11 +34,13 @@
                 <!-- TENTANG -->
                 <div class="relative group">
 
-                    <button class="font-medium hover:text-green-600 transition">
-                        Tentang Kami
-                    </button>
+                <button class="font-medium hover:text-green-600 transition">
+                    Tentang Kami
+                </button>
 
-                    <div class="absolute top-full left-0 mt-4 w-72 bg-white rounded-3xl shadow-2xl opacity-0 invisible group-hover:opacity-100 group-hover:visible transition duration-300 overflow-hidden">
+                <div class="absolute top-full left-0 pt-4 w-72 opacity-0 invisible group-hover:opacity-100 group-hover:visible transition duration-300">
+
+                    <div class="bg-white rounded-3xl shadow-2xl overflow-hidden">
 
                         <a href="/sejarah" class="block px-6 py-4 hover:bg-green-50">
                             Sejarah
@@ -56,6 +58,8 @@
 
                 </div>
 
+            </div>
+
                 <!-- INFORMASI -->
                 <div class="relative group">
 
@@ -63,7 +67,9 @@
                         Informasi Publik
                     </button>
 
-                    <div class="absolute top-full left-0 mt-4 w-72 bg-white rounded-3xl shadow-2xl opacity-0 invisible group-hover:opacity-100 group-hover:visible transition duration-300 overflow-hidden">
+                    <div class="absolute top-full left-0 pt-4 w-72 opacity-0 invisible group-hover:opacity-100 group-hover:visible transition duration-300">
+
+                    <div class="bg-white rounded-3xl shadow-2xl overflow-hidden">
 
                         <a href="/kontak-kami" class="block px-6 py-4 hover:bg-green-50">
                             Kontak Kami
@@ -83,6 +89,8 @@
 
                 </div>
 
+                </div>
+
                 <!-- PPID -->
                 <div class="relative group">
 
@@ -90,8 +98,9 @@
                         PPID
                     </button>
 
-                    <div class="absolute top-full left-0 mt-4 w-72 bg-white rounded-3xl shadow-2xl opacity-0 invisible group-hover:opacity-100 group-hover:visible transition duration-300 overflow-hidden">
+                    <div class="absolute top-full left-0 pt-4 w-72 opacity-0 invisible group-hover:opacity-100 group-hover:visible transition duration-300">
 
+                    <div class="bg-white rounded-3xl shadow-2xl overflow-hidden">
                         <a href="/permohonan-informasi"
                            class="block px-6 py-4 hover:bg-green-50">
 
@@ -107,6 +116,7 @@
 
                         </a>
 
+                    </div>
                     </div>
 
                 </div>
@@ -126,7 +136,9 @@
                         Program
                     </button>
 
-                    <div class="absolute top-full left-0 mt-4 w-72 bg-white rounded-3xl shadow-2xl opacity-0 invisible group-hover:opacity-100 group-hover:visible transition duration-300 overflow-hidden">
+                    <div class="absolute top-full left-0 pt-4 w-72 opacity-0 invisible group-hover:opacity-100 group-hover:visible transition duration-300">
+
+                    <div class="bg-white rounded-3xl shadow-2xl overflow-hidden">
 
                         <a href="/perda-organik"
                            class="block px-6 py-4 hover:bg-green-50">
