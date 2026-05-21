@@ -79,7 +79,7 @@
                             Dokumen Kinerja
                         </a>
 
-                        <a href="https://instagram.com"
+                        <a href="https://distanhorti.jabarprov.go.id/verifikasi-link?url=https://skm.jabarprov.go.id/search/perangkat/eyJpdiI6IktFZ1gyNWdyaUhsbzhGT0lZYkFhdEE9PSIsInZhbHVlIjoiUkRIazdDbHg1VXY4UVA3b3FFUUIxUT09IiwibWFjIjoiNzg0OGYwOWUyY2VmOWMyZDRiMWNmMDFhYjQyM2ZiNzU0Y2MxODZjMTFmYTI2NzczNzA4YWFiOTMzZTMxNzM3YSIsInRhZyI6IiJ9"
                            target="_blank"
                            class="block px-6 py-4 hover:bg-green-50">
                             Survey Kepuasan Masyarakat
@@ -108,7 +108,7 @@
 
                         </a>
 
-                        <a href="https://instagram.com"
+                        <a href="https://distanhorti.jabarprov.go.id/verifikasi-link?url=https://www.lapor.go.id/"
                            target="_blank"
                            class="block px-6 py-4 hover:bg-green-50">
 
@@ -132,7 +132,7 @@
 
                     <div class="bg-white rounded-3xl shadow-2xl overflow-hidden">
 
-                        <a href="https://instagram.com"
+                        <a href="https://distanhorti.jabarprov.go.id/verifikasi-link?url=https://reglahan.hortikultura.pertanian.go.id/sign?act=home"
                            target="_blank"
                            class="block px-6 py-4 hover:bg-green-50">
 
@@ -140,7 +140,7 @@
 
                         </a>
 
-                        <a href="https://instagram.com"
+                        <a href="https://distanhorti.jabarprov.go.id/verifikasi-link?url=https://katalis.jabarprov.go.id/admin/login"
                            target="_blank"
                            class="block px-6 py-4 hover:bg-green-50">
 
@@ -148,7 +148,7 @@
 
                         </a>
 
-                        <a href="https://instagram.com"
+                        <a href="https://distanhorti.jabarprov.go.id/verifikasi-link?url=https://www.bpsbtph-jabar.id/serbetpanon"
                            target="_blank"
                            class="block px-6 py-4 hover:bg-green-50">
 
@@ -156,7 +156,7 @@
 
                         </a>
 
-                        <a href="https://instagram.com"
+                        <a href="https://distanhorti.jabarprov.go.id/verifikasi-link?url=https://www.bpsbtph-jabar.id/singabentang"
                            target="_blank"
                            class="block px-6 py-4 hover:bg-green-50">
 
@@ -164,7 +164,7 @@
 
                         </a>
 
-                        <a href="https://instagram.com"
+                        <a href="https://distanhorti.jabarprov.go.id/verifikasi-link?url=https://bpsbtph-jabar.org/"
                            target="_blank"
                            class="block px-6 py-4 hover:bg-green-50">
 
@@ -172,7 +172,7 @@
 
                         </a>
 
-                        <a href="https://instagram.com"
+                        <a href="https://distanhorti.jabarprov.go.id/verifikasi-link?url=https://jabarprov.go.id/layanan/bantuanbenihhortikultura"
                            target="_blank"
                            class="block px-6 py-4 hover:bg-green-50">
 
@@ -204,7 +204,7 @@
 
                         </a>
 
-                        <a href="https://instagram.com"
+                        <a href="https://distanhorti.jabarprov.go.id/verifikasi-link?url=https://healthyculturerun.com/"
                            target="_blank"
                            class="block px-6 py-4 hover:bg-green-50">
 
