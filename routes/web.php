@@ -24,6 +24,7 @@ Route::view('/tupoksi', 'pages.tupoksi');
 
 Route::view('/kontak-kami', 'pages.kontak');
 Route::view('/dokumen-kinerja', 'pages.dokumen');
+Route::view('/dokumen-detail', 'dokumen-detail');
 
 /*
 |--------------------------------------------------------------------------
