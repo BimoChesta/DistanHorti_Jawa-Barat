@@ -31,7 +31,7 @@
             <div class="grid lg:grid-cols-2 gap-16 items-center w-full">
 
                 <!-- LEFT -->
-                <div>
+                <div data-aos="fade-right">
 
                     <div
                         class="inline-flex items-center gap-2 bg-green-600/20 border border-green-400/30 px-4 py-2 rounded-full mb-6">
@@ -125,7 +125,7 @@
                 </div>
 
                 <!-- RIGHT -->
-                <div class="relative hidden lg:block">
+                <div class="relative hidden lg:block" data-aos="fade-left">
 
                     <!-- MAIN CARD -->
                     <div class="relative z-10 rounded-[40px] overflow-hidden shadow-2xl border border-white/10">
@@ -197,7 +197,7 @@
             <div class="grid lg:grid-cols-3 gap-8">
 
                 <!-- FEATURED NEWS -->
-                <div class="lg:col-span-2 relative rounded-[40px] overflow-hidden group min-h-[650px]">
+                <div class="lg:col-span-2 relative rounded-[40px] overflow-hidden group min-h-[650px]" data-aos="zoom-in">
 
                     <img src="https://images.unsplash.com/photo-1464226184884-fa280b87c399"
                         class="absolute inset-0 w-full h-full object-cover group-hover:scale-110 transition duration-700">
@@ -240,7 +240,7 @@
                 </div>
 
                 <!-- SIDE NEWS -->
-                <div class="space-y-8">
+                <div class="space-y-8" data-aos="fade-up">
 
                     <!-- ITEM -->
                     <div class="bg-white rounded-3xl p-5 shadow-md hover:shadow-2xl transition duration-300 group">
@@ -377,7 +377,7 @@
             </div>
 
             <!-- GRID -->
-            <div class="grid md:grid-cols-2 xl:grid-cols-3 gap-8">
+            <div class="grid md:grid-cols-2 xl:grid-cols-3 gap-8" data-aos="fade-up">
 
                 <!-- CARD 1 -->
                 <a href="https://instagram.com" target="_blank"
@@ -654,7 +654,7 @@
         </div>
 
         <!-- MASONRY GRID -->
-        <div class="columns-1 md:columns-2 xl:columns-3 gap-6 space-y-6">
+        <div class="columns-1 md:columns-2 xl:columns-3 gap-6 space-y-6" data-aos="fade-up" >
 
             <!-- ITEM -->
             <div class="group relative overflow-hidden rounded-[35px]">
@@ -819,7 +819,7 @@
 </section>
 
     <!-- FOOTER -->
-<footer class="relative bg-[#08120D] overflow-hidden text-white pt-28">
+<footer data-aos="fade-up" class="relative bg-[#08120D] overflow-hidden text-white pt-28">
 
     <!-- BACKGROUND EFFECT -->
     <div class="absolute top-0 left-0 w-full h-full">
