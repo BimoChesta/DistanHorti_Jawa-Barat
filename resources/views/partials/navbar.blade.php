@@ -122,12 +122,69 @@
                 </div>
 
                 <!-- LAYANAN -->
-                <a href="#layanan"
-                   class="font-medium hover:text-green-600 transition">
+                <div class="relative group">
 
-                    Layanan
+                    <button class="font-medium hover:text-green-600 transition">
+                        Layanan
+                    </button>
 
-                </a>
+                    <div class="absolute top-full left-0 pt-4 w-72 opacity-0 invisible group-hover:opacity-100 group-hover:visible transition duration-300">
+
+                    <div class="bg-white rounded-3xl shadow-2xl overflow-hidden">
+
+                        <a href="https://instagram.com"
+                           target="_blank"
+                           class="block px-6 py-4 hover:bg-green-50">
+
+                            Registrasi Lahan Hortikultura
+
+                        </a>
+
+                        <a href="https://instagram.com"
+                           target="_blank"
+                           class="block px-6 py-4 hover:bg-green-50">
+
+                            Kimia Agro Integreted Agricultural Laboratory Information Management System
+
+                        </a>
+
+                        <a href="https://instagram.com"
+                           target="_blank"
+                           class="block px-6 py-4 hover:bg-green-50">
+
+                            Sertifikasi Benih Tanaman Pangan Online
+
+                        </a>
+
+                        <a href="https://instagram.com"
+                           target="_blank"
+                           class="block px-6 py-4 hover:bg-green-50">
+
+                            Sistem Pengawasan Benih Tanaman Pangan
+
+                        </a>
+
+                        <a href="https://instagram.com"
+                           target="_blank"
+                           class="block px-6 py-4 hover:bg-green-50">
+
+                            Layanan Online Sertifikasi Benih Hortikultura
+
+                        </a>
+
+                        <a href="https://instagram.com"
+                           target="_blank"
+                           class="block px-6 py-4 hover:bg-green-50">
+
+                            Sapawarga
+
+                        </a>
+
+                    </div>
+
+                </div>
+
+            </div>
 
                 <!-- PROGRAM -->
                 <div class="relative group">
